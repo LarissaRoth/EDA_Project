@@ -6,6 +6,9 @@ Template for creating ds simple projects
 
 - pyenv
 - python==3.9.8
+- missingno
+- geopandas
+- Plotly
 
 ## Setup
 
@@ -54,3 +57,7 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+
+### Final project 
+
+contains my approach to the given task. The Stakeholder for whom this analysis was conducted is Nicole Johnson, whose requirements can be found in assignment or in this project. 
